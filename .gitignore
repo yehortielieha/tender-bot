@@ -1,0 +1,9 @@
+# secrets and local data
+api_key.txt
+logs/
+share/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
